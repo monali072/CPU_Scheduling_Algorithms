@@ -9,7 +9,7 @@ To run the program, follow these steps:
 1. Clone this repository to your local machine.
 
    ```shell
-   git clone git@github.com:Keyur2311/Cpu-Scheduling-algorithms.git
+   git clone git@github.com:monali072/CPU_Scheduling_Algorithms.git
    ```
 
 2. Navigate to the project directory.
